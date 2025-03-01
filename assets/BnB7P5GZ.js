@@ -1,1 +1,0 @@
-import{_ as a,c as s,a as o,o as n}from"./B7Lou1jT.js";const t={name:"HomePage"};function r(d,e,i,l,c,p){return n(),s("div",null,e[0]||(e[0]=[o("h2",null,"Bienvenido a mi portafolio",-1),o("p",null,"Este es un lugar donde muestro mis proyectos y habilidades.",-1)]))}const m=a(t,[["render",r],["__scopeId","data-v-9de1f146"]]);export{m as default};
